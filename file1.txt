@@ -4,5 +4,6 @@ uuuu
 
 comit with new_branch
 Add line at work branch in new_branch.
-ブラウザから記入
-�Ȃɂ��L��
+繝悶Λ繧ｦ繧ｶ縺九ｉ險伜�
+なにか記入
+Add line at new_branch by browser.
