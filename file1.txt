@@ -6,3 +6,5 @@ comit with new_branch
 Add line at work branch in new_branch.
 ブラウザから記入
 �Ȃɂ��L��
+
+Modify at topic branch
